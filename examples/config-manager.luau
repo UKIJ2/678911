@@ -2,7 +2,7 @@ local Fatality = loadstring(game:HttpGet("https://raw.githubusercontent.com/UKIJ
 local Notification = Fatality:CreateNotifier();
 
 Fatality:Loader({
-	Name = "FECALITY",
+	Name = "NIGALITY",
 	Duration = 4
 });
 
