@@ -1,4 +1,4 @@
-local Fatality = loadstring(game:HttpGet("поменять на source luau"))();
+local Fatality = loadstring(game:HttpGet("https://raw.githubusercontent.com/UKIJ2/678911/refs/heads/main/src/source.luau"))();
 local Notification = Fatality:CreateNotifier();
 
 Fatality:Loader({
