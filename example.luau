@@ -2,18 +2,18 @@ local Fatality = loadstring(game:HttpGet("https://raw.githubusercontent.com/UKIJ
 local Notification = Fatality:CreateNotifier();
 
 Fatality:Loader({
-	Name = "FECALITY",
+	Name = "NIGALITY",
 	Duration = 4
 });
 
 Notification:Notify({
-	Title = "FECALITY",
+	Title = "NIGALITY",
 	Content = "Hello, "..game.Players.LocalPlayer.DisplayName..' Welcome back!',
 	Icon = "clipboard"
 })
 
 local Window = Fatality.new({
-	Name = "FECALITY",
+	Name = "NIGALITY",
 	Expire = "never",
 });
 
